@@ -186,7 +186,7 @@ footer {
     body{
         max-width: 100%;
         /* padding: 5px; */
-        /* border: 2px solid red; */
+        border: 2px solid red;
         margin: 0;
     }
     header nav ul {
@@ -206,8 +206,8 @@ footer {
         padding: auto;
     }
     .hero-image{
-        display: block; 
-        width: 117%;
+        display: block;
+        max-width:118%;
         height: 500px;
     }
     .hero-text{
