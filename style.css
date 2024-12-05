@@ -206,7 +206,7 @@ footer {
         padding: auto;
     }
     .hero-image{
-        /* display: block; */
+        display: block; 
         width: 115%;
         height: 500px;
     }
