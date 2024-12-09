@@ -206,7 +206,7 @@ footer {
     body, html {
         margin: 0;
         padding: 0;
-        overflow-x: hidden; /* Prevent scrolling left-right */
+        overflow-x: hidden; 
     }
 
     header nav ul {
@@ -277,6 +277,9 @@ footer {
         max-height: fit-content; */
         position: relative;
         width: 100%;
+    }
+    #contact{
+        padding: 2px;
     }
    
 }
