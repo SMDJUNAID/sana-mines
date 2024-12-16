@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+	
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://www.sanaminesandminerals.com/</loc>
+	<lastmod>2024-12-15T19:41:31+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.sanaminesandminerals.com/images/HM24-000401%28SANA%20MINES%20AND%20MINERALS%29UPDATED.pdf</loc>
+	<lastmod>2024-12-15</lastmod>
+	<priority>0.8</priority>
+</url>
+<!-- Homepage -->
+    <url>
+        <loc>https://www.sanaminesandminerals.com/</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>1.0</priority>
+        <changefreq>daily</changefreq>
+    </url>
+
+    <!-- About Section -->
+    <url>
+        <loc>https://www.sanaminesandminerals.com/about</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>0.8</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <!-- Products Section -->
+    <url>
+        <loc>https://www.sanaminesandminerals.com/products</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>0.8</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <!-- Industries Section -->
+    <url>
+        <loc>https://www.sanaminesandminerals.com/industries</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>0.7</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <!-- Contact Section -->
+    <url>
+        <loc>https://www.sanaminesandminerals.com/contact</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>0.6</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <!-- Blog Section -->
+    <url>
+        <loc>https://www.sanaminesandminerals.com/blog</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>0.6</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <!-- Example Blog Articles -->
+    <url>
+        <loc>https://www.sanaminesandminerals.com/blog/article-1</loc>
+        <lastmod>2024-12-15</lastmod>
+        <priority>0.5</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://www.sanaminesandminerals.com/blog/article-2</loc>
+        <lastmod>2024-12-05</lastmod>
+        <priority>0.5</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+</urlset>

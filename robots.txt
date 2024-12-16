@@ -1,0 +1,12 @@
+# robots.txt for https://www.sanaminesandminerals.com
+
+# Allow all crawlers to access all pages
+User-agent: *
+Disallow:
+
+# Allow Googlebot to crawl specific pages
+User-agent: Googlebot
+Disallow: /admin/  # For example, you may want to block crawlers from crawling admin pages
+
+# Sitemap location
+Sitemap: https://www.sanaminesandminerals.com/sitemap.xml
